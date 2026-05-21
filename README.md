@@ -1,2 +1,1 @@
-# Team-1-DEPI-clinicflow
-A smart booking system designed to reduce crowding and waiting time in clinics by organizing appointments and managing patient flow.
+Figma link file : https://www.figma.com/design/LhTHPJJsPj8QLObmpWZbWH/Team---1?node-id=109-975&t=6a2V6G7TQ3ETTkQt-1
